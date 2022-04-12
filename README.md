@@ -21,3 +21,5 @@ The modules in the project are as follows:
 • DECIDING EVALUATION METRICS AND TESTING
 
 Dataset used: https://web.eecs.umich.edu/~mihalcea/downloads.html#RealLifeDeception
+
+Contributors : @Rixhi7 , @Achinthya2411 , @ayushkr03
