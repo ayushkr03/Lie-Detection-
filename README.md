@@ -19,3 +19,5 @@ The modules in the project are as follows:
 • BUILDING NETWORK ARCHITECTURE
 • TRAINING NETWORK ARCHITECTURE ON DATA
 • DECIDING EVALUATION METRICS AND TESTING
+
+Dataset used: https://web.eecs.umich.edu/~mihalcea/downloads.html#RealLifeDeception
